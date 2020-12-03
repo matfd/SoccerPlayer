@@ -17,4 +17,7 @@ public:
 	unsigned int getGoal();
 	void setAssists(unsigned int fAssist);
 	unsigned int getAssists();
+	void showParametrs();
+	void addGoal(unsigned int fG);
+	void addAssist(unsigned int fA);
 };
